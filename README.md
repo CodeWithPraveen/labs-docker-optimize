@@ -23,3 +23,6 @@ It supports two versions - first is the base version and the second is the enhan
 - Familiarity with multi-stage builds in Dockerfile. 
 - Working knowledge on .NET. 
 - Basic understanding of HTTP operations.
+
+## Learn more & Enroll:
+https://www.udemy.com/labs/optimize-a-net-container-image-using-multi-stage-build
